@@ -3,6 +3,10 @@
   
   
 html, body{ 
-  background-color: rgb(200,200,0);
+  background: rgb(200,200,0);
   font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+ text-align:center;
 }
