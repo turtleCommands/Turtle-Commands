@@ -12,9 +12,8 @@ body   {
 
 /* styling our overall page */
 html, body     {
-  background: #FFF;
+  background: rgb(200,200,200);
   font-family: Arial, Helvetica, sans-serif;
-  text-align:center;
 }
 
 
